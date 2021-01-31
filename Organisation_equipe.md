@@ -1,6 +1,6 @@
 # Organisation de l'équipe
 
-** Le but de ce fichier est de mettre à plat l'organisation de votre équipe et de votre semaine de projet - il est à remplir le lundi du lancement du projet et à présenter à l'encadrante du jour **
+*Le but de ce fichier est de mettre à plat l'organisation de votre équipe et de votre semaine de projet - il est à remplir le lundi du lancement du projet et à présenter à l'encadrante du jour*
 
 ## Roadmap
 
